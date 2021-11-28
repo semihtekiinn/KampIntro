@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\KampIntro.csproj", "{65B3F847-CBB5-4508-9DB3-5460F56BFABD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler", "Donguler\Donguler.csproj", "{BF5E3B7B-5896-40B6-AAD3-5A55C13A19EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{ECFF02A5-880C-4CFC-99C8-54AA66D4ECBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13Ocak2021-2.GunOdevi", "13Ocak2021-2.GunOdevi\13Ocak2021-2.GunOdevi.csproj", "{AA10BABA-5D01-434D-8A76-41EA09197F01}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{3FEFC20D-D67D-4316-8F54-A6D1C45CF915}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Matematik.csproj", "{40B5699D-6422-4E1E-A038-E411915CB4D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{1A641EC5-0C5B-4196-B008-4DF9A12A9415}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65B3F847-CBB5-4508-9DB3-5460F56BFABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B3F847-CBB5-4508-9DB3-5460F56BFABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B3F847-CBB5-4508-9DB3-5460F56BFABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B3F847-CBB5-4508-9DB3-5460F56BFABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF5E3B7B-5896-40B6-AAD3-5A55C13A19EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5E3B7B-5896-40B6-AAD3-5A55C13A19EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5E3B7B-5896-40B6-AAD3-5A55C13A19EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5E3B7B-5896-40B6-AAD3-5A55C13A19EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECFF02A5-880C-4CFC-99C8-54AA66D4ECBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECFF02A5-880C-4CFC-99C8-54AA66D4ECBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECFF02A5-880C-4CFC-99C8-54AA66D4ECBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECFF02A5-880C-4CFC-99C8-54AA66D4ECBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA10BABA-5D01-434D-8A76-41EA09197F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA10BABA-5D01-434D-8A76-41EA09197F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA10BABA-5D01-434D-8A76-41EA09197F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA10BABA-5D01-434D-8A76-41EA09197F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEFC20D-D67D-4316-8F54-A6D1C45CF915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEFC20D-D67D-4316-8F54-A6D1C45CF915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEFC20D-D67D-4316-8F54-A6D1C45CF915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEFC20D-D67D-4316-8F54-A6D1C45CF915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40B5699D-6422-4E1E-A038-E411915CB4D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40B5699D-6422-4E1E-A038-E411915CB4D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40B5699D-6422-4E1E-A038-E411915CB4D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40B5699D-6422-4E1E-A038-E411915CB4D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A641EC5-0C5B-4196-B008-4DF9A12A9415}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A641EC5-0C5B-4196-B008-4DF9A12A9415}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A641EC5-0C5B-4196-B008-4DF9A12A9415}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A641EC5-0C5B-4196-B008-4DF9A12A9415}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42541E1F-BA7B-4103-AEC9-5205552FB319}
+	EndGlobalSection
+EndGlobal
