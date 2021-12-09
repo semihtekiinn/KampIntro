@@ -39,5 +39,8 @@ namespace ClassMetotDemo
             Console.WriteLine(musteri.Adi + " " + musteri.Soyadi + " isimli müşteri sistemden silindi.");
         }
 
+
+        
+
     }
 }
